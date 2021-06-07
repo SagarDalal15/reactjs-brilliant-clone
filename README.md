@@ -5,24 +5,19 @@
 This project is currently in development
 
 
-## Project Screen Shot(s)
-
-#### Example:   
-
-
 #### Installation and Setup Instructions
 
 To get into the directory:
 
- cd brilliant-master
+## cd brilliant-master
 
  Installation:
 
- npm install 
+## npm install 
  
  To Start Server:
 
- npm start 
+## npm start 
 
 To Visit App:
 
