@@ -36,7 +36,7 @@ To Visit App:
 
 #### About Project 
 
-This was a 2 days long project built during my third semester in my graduation in Btech Computer Science. I created this project as an internship assignment where I supposed to create 2 pages of the given website (Links given below). Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
+This was a 2 days long project built during my sixth semester in my graduation in Btech Computer Science. I created this project as an internship assignment where I supposed to create 2 pages of the given website (Links given below). Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
 
 One of the main challenges I found was implement the drag and drop of cartoon image on page 2.
 
