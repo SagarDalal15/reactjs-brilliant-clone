@@ -1,0 +1,27 @@
+.header {
+  height: 60px;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  background-color: white;
+  z-index: 30;
+}
+
+.header-heading {
+  padding: 0 5vw;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+  width: 175px;
+  justify-content: space-between;
+}
+
+.header-links {
+  margin-left: 7%;
+  font-size: 13px;
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}

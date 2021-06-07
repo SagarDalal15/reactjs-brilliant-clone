@@ -1,0 +1,50 @@
+.cards3 {
+  width: 475vw;
+  padding: 20px 40px;
+  display: flex;
+}
+.cards3.add {
+  width: 100%;
+}
+
+.cards3-rows {
+  width: 2800px !important;
+}
+
+.cards3-rows.add {
+  width: 1200px !important;
+}
+
+.cards3-col {
+  width: 360px !important;
+}
+
+.cards3-card {
+  margin: 0px 18px;
+  height: 350px !important;
+  width: 336px !important;
+  border: none !important;
+}
+
+.cards3-card:hover {
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.cards3-grid-button {
+  position: absolute;
+  right: 0px;
+  margin-top: 24px;
+  width: 150px;
+  background: linear-gradient(90deg, rgba(248, 247, 246, 0), #f8f7f6);
+  height: 325px;
+  opacity: 0;
+}
+
+.cards3-grid-button.add {
+  display: none;
+}
+
+.cards3-grid-button:hover {
+  opacity: 1;
+}

@@ -1,0 +1,10 @@
+.card-header {
+  padding: 30px 40px;
+  display: flex;
+  align-items: center;
+  height: 90px;
+  font-size: 30px;
+  background-color: white;
+  border: none;
+  margin-top: 10px;
+}

@@ -1,0 +1,39 @@
+.cards {
+  width: 175vw;
+  padding: 20px 40px;
+  display: flex;
+}
+.cards.add {
+  width: 100%;
+}
+
+.cards-rows {
+  width: 1500px !important;
+}
+
+.cards-rows.add {
+  width: 1200px !important;
+}
+
+.cards-col {
+  width: 360px !important;
+}
+
+.cards-grid-button {
+  position: absolute;
+  right: 0;
+  margin-top: 24px;
+  width: 150px;
+  background: linear-gradient(90deg, rgba(248, 247, 246, 0), #f8f7f6);
+  height: 325px;
+  opacity: 0;
+  display: none;
+}
+
+.cards-grid-button.add {
+  display: none;
+}
+
+.cards-grid-button:hover {
+  opacity: 1;
+}

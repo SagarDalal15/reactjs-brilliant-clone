@@ -1,0 +1,14 @@
+.page2 {
+  min-height: 100vh;
+  height: fit-content;
+}
+
+.page2-drag {
+  width: 600px;
+  height: fit-content;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
