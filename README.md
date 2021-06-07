@@ -25,6 +25,15 @@ To Visit App:
   or
 `localhost:3000/`
 
+## Libraries Used
+
+1. @material-ui/core
+2. react-bootstrap
+3. bootstrap
+4. react-dnd
+5. react-dnd-html5-backend
+6. react-router-dom
+
 #### About Project 
 
 This was a 2 days long project built during my third semester in my graduation in Btech Computer Science. I created this project as an internship assignment where I supposed to create 2 pages of the given website (Links given below). Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
