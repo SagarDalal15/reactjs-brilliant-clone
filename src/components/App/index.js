@@ -9,7 +9,7 @@ import "./style.css";
 export default function App() {
   return (
     <div className="app">
-      <Route exact path="process.env.PUBLIC_URL +/" component={Page1} />
+      <Route exact path={process.env.PUBLIC_URL + "/"} component={Page1} />
       <Route exact path="/page2" component={Page2} />
     </div>
   );
