@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+## Brilliant Website Clone, Front End
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Status
+This project is currently in development
 
-In the project directory, you can run:
 
-### `npm start`
+#### Installation and Setup Instructions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+To get into the directory:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## cd brilliant-master
 
-### `npm test`
+ Installation:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## npm install 
+ 
+ To Start Server:
 
-### `npm run build`
+## npm start 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To Visit App:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+`localhost:3000/brilliant` 
+  or
+`localhost:3000/`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Libraries Used
 
-### `npm run eject`
+1. @material-ui/core
+2. react-bootstrap
+3. bootstrap
+4. react-dnd
+5. react-dnd-html5-backend
+6. react-router-dom
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### About Project 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This was a 2 days long project built during my sixth semester in my graduation in Btech Computer Science. I created this project as an internship assignment where I supposed to create 2 pages of the given website (Links given below). Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+One of the main challenges I found was implement the drag and drop of cartoon image on page 2.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Link to original website: 
 
-## Learn More
+Page 1: https://brilliant.org/courses/logic-deduction/
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Page 2: https://brilliant.org/practice/warmup-puzzles-6/?chapter=introduction-54
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## If anyone can help me with better approach in creating this project, would appreciate that. Feel free to contact me at my email sagardalal112@gmail.com.
