@@ -78,7 +78,7 @@ owners to license your work under the terms of the [MIT License]
 
 # Collaborating guidelines
 
-You can find the list of all contributors in [README.md](../master/LICENSE)
+You can find the list of all contributors in [README.md](../master/README.md)
 
 You are always welcome to discuss and propose improvements to this guideline.
 
