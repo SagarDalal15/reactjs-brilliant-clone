@@ -6,6 +6,7 @@ export default function Page1Footer() {
   return (
     <div className="page1-footer">
       <div
+        className="page1-footer-inner-wrapper"
         style={{
           width: "680px",
           height: "30px",
@@ -16,6 +17,7 @@ export default function Page1Footer() {
         NEXT STEPS
       </div>
       <div
+        className="page1-footer-inner"
         style={{
           display: "flex",
           width: "680px",

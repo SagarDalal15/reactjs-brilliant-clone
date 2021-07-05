@@ -17,6 +17,7 @@ export default function Header() {
         <div>PRACTICE</div>
       </div>
       <div
+        className="header-button-wrapper"
         style={{
           display: "flex",
           justifyContent: "space-between",
@@ -26,6 +27,7 @@ export default function Header() {
         }}
       >
         <Button
+          className="header-button"
           style={{
             width: "182px",
             borderColor: "#049BE5",
@@ -37,6 +39,7 @@ export default function Header() {
           L<span style={{ textTransform: "lowercase" }}>og in</span>
         </Button>
         <Button
+          className="header-button"
           style={{
             width: "182px",
             backgroundColor: "#049BE5",

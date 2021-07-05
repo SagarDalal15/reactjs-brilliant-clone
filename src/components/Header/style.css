@@ -25,3 +25,15 @@
   justify-content: space-between;
   width: 300px;
 }
+
+@media (max-width: 700px) {
+  .header-links {
+    display: none;
+  }
+  .header-button-wrapper {
+    width: 50vw !important;
+  }
+  .header-button {
+    width: 24vw !important;
+  }
+}

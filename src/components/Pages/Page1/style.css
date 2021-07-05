@@ -36,3 +36,18 @@
   padding: 44px 32px;
   background-color: white;
 }
+
+@media (max-width: 700px) {
+  .page1-text {
+    margin-top: 100px;
+    width: 80vw;
+  }
+  .page1-body {
+    flex-direction: column;
+  }
+
+  .page1-card {
+    margin-top: 100px;
+    margin-bottom: 60px;
+  }
+}

@@ -5,3 +5,17 @@
   justify-content: center;
   align-items: center;
 }
+
+@media (max-width: 700px) {
+  .page1-footer {
+    height: fit-content !important;
+  }
+  .page1-footer-inner-wrapper {
+    width: 90vw !important;
+  }
+  .page1-footer-inner {
+    flex-direction: column;
+    width: 90vw !important;
+    height: fit-content !important;
+  }
+}
