@@ -1,8 +1,12 @@
-## Brilliant Website Clone, Front End
+# Brilliant Website Clone, Front End
 
+## Website Link
 
-## Project Status
-This project is currently in development
+https://sagardalal15.github.io/reactjs-brilliant-clone/
+
+<img width="1440" alt="Screenshot 2021-07-03 at 7 59 12 PM" src="https://user-images.githubusercontent.com/74422938/124357515-7fc81e00-dc39-11eb-8d11-3137a3adb24e.png">
+
+<img width="1440" alt="Screenshot 2021-07-03 at 8 00 40 PM" src="https://user-images.githubusercontent.com/74422938/124357528-9c645600-dc39-11eb-8d22-d47d347cfad4.png">
 
 
 #### Installation and Setup Instructions
