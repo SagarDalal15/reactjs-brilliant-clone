@@ -2,7 +2,7 @@
   padding: 30px 40px;
   display: flex;
   align-items: center;
-  height: 90px;
+  height: fit-content;
   font-size: 30px;
   background-color: white;
   border: none;

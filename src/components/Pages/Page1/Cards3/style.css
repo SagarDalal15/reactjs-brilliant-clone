@@ -51,9 +51,9 @@
 
 @media (max-width: 700px) {
   .cards3-rows {
-    width: 1200px !important;
+    width: 90vw !important;
   }
   .cards3 {
-    width: 100%;
+    width: 90vw;
   }
 }

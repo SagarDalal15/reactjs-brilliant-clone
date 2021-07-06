@@ -9,7 +9,8 @@ export default function CardHeader(props) {
         style={{
           display: "flex",
           alignItems: "center",
-          height: "70px",
+          minHeight: "70px",
+          height: "fit-content",
         }}
       >
         <div
@@ -54,7 +55,8 @@ export default function CardHeader(props) {
           style={{
             display: "flex",
             flexDirection: "column",
-            height: "70px",
+            minHeight: "70px",
+            height: "fit-content",
             justifyContent: "space-between",
           }}
         >

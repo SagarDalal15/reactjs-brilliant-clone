@@ -100,7 +100,7 @@ export default function Page1() {
         </div>
       </div>
 
-      <div style={{ padding: "0px 25px" }} className="page1-2">
+      <div style={{ padding: "0px 0px" }} className="page1-2">
         <CardHeader
           num="1"
           heading="Introduction"
@@ -111,7 +111,7 @@ export default function Page1() {
         </div>
       </div>
 
-      <div style={{ padding: "0px 25px" }} className="page1-3">
+      <div style={{ padding: "0px 0px" }} className="page1-3">
         <CardHeader
           num="2"
           heading="The Rational Detective"
@@ -122,7 +122,7 @@ export default function Page1() {
         </div>
       </div>
 
-      <div style={{ padding: "0px 25px" }} className="page1-4">
+      <div style={{ padding: "0px 0px" }} className="page1-4">
         <CardHeader
           num="3"
           heading="Puzzles and Riddles"
@@ -133,7 +133,7 @@ export default function Page1() {
         </div>
       </div>
 
-      <div style={{ padding: "0px 25px" }} className="page1-5">
+      <div style={{ padding: "0px 0px" }} className="page1-5">
         <CardHeader
           num="4"
           heading="Multi-Level Thinking"

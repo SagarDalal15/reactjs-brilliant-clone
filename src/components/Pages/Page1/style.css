@@ -2,6 +2,7 @@
   height: fit-content;
   min-height: 100vh;
   right: 0;
+  left: 0;
   overflow-x: hidden;
 }
 
@@ -45,9 +46,24 @@
   .page1-body {
     flex-direction: column;
   }
+  .page1-2 {
+    width: 90vw;
+  }
+  .page1-3 {
+    width: 90vw;
+  }
+  .page1-4 {
+    width: 90vw;
+  }
+  .page1-5 {
+    width: 90vw;
+  }
 
   .page1-card {
+    width: 90vw !important;
+    height: fit-content;
     margin-top: 100px;
     margin-bottom: 60px;
+    padding: none;
   }
 }
