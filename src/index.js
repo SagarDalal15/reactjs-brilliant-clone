@@ -6,11 +6,13 @@ import { BrowserRouter, Route } from "react-router-dom";
 
 import App from "./components/App";
 import "./index.css";
+import GithubLink from "./components/github-link";
 
 ReactDOM.render(
   <BrowserRouter>
     <DndProvider backend={HTML5Backend}>
       <App />
+      <GithubLink />
     </DndProvider>
   </BrowserRouter>,
   document.querySelector("#root")
